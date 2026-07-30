@@ -1,0 +1,20 @@
+html{
+    background-color: #fff1e7;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    color: #f2f2f2;
+    text-align: center;
+    background-color: #A08F3B;
+
+}
+
+footer{
+    color: #f2f2f2;
+    background-color: #001F49;
+    text-align: center;
+    padding: 20px;
+}
